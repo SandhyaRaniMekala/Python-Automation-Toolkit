@@ -6,7 +6,9 @@ This repository contains real-world automation scripts built using Python to sol
 
 ## 📁 Project 1: Desktop File Organizer
 **Problem:** A cluttered desktop filled with screenshots and PDFs makes it hard to focus and find important work.
+
 **Solution:** I built an automated script that scans the desktop, identifies file types, and sorts them into organized folders.
+
 **Key Skills:** * Python File I/O
 * "os" and "shutil" modules
 * Loops and Conditionals
@@ -23,7 +25,9 @@ This repository contains real-world automation scripts built using Python to sol
 
 ## 🔍 Project 2: Secret Message Finder
 **Problem:** Thousands of log files exist in servers, and searching for a specific "ERROR" code manually is impossible.
+
 **Solution:** I built a script that scans all ".txt" files in a folder, reads their internal data, and finds specific keywords in seconds.
+
 **Key Skills:**
 * File Reading ("with open")
 * String Matching
