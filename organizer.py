@@ -1,8 +1,4 @@
 import os
-path = "/Users/karthikamekala/Desktop"
-files = os.listdir(path)
-print(files)
-import os
 import shutil
 path = "/Users/karthikamekala/Desktop"
 files = os.listdir(path)
