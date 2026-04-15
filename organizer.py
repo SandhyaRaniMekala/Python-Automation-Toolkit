@@ -7,4 +7,4 @@ for file in files:
         if not os.path.exists(path + "/MyScreenshots"):
             os.mkdir(path + "/MyScreenshots")
         shutil.move(path + "/" + file, path + "/MyScreenshots/" + file)
-        print(f"Sinnoda, {file} ni move chesesa!")
+        print(f"Sandhya, {file} manam succesful ga move chesesam!")
