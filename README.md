@@ -29,6 +29,6 @@ This repository contains real-world automation scripts built using Python to sol
 * String Matching
 * Looping through directories
 
-### How to use:
+### How it works:
 1. Put the "finder.py" script in a folder with text files.
 2. Run "python3 finder.py".
