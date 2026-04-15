@@ -17,3 +17,18 @@ This repository contains real-world automation scripts built using Python to sol
 3. It creates folders (if they don't exist) and moves the files.
 
 ---
+
+
+---
+
+## 🔍 Project 2: Secret Message Finder
+**Problem:** Thousands of log files exist in servers, and searching for a specific "ERROR" code manually is impossible.
+**Solution:** I built a script that scans all ".txt" files in a folder, reads their internal data, and finds specific keywords in seconds.
+**Key Skills:**
+* File Reading ("with open")
+* String Matching
+* Looping through directories
+
+### How to use:
+1. Put the "finder.py" script in a folder with text files.
+2. Run "python3 finder.py".
